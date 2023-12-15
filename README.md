@@ -1,0 +1,2 @@
+# nomadai-self-study
+.
